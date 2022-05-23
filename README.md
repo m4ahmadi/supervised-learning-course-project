@@ -1,1 +1,1 @@
-# supervisedLearning-course-project
+# supervised-learning-course-project
